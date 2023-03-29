@@ -1,19 +1,17 @@
-### Hi there 👋
+### 👋 Hi there 
 
-<!--
-**martinsep/martinsep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" width="150px"> I am a student at Universidad de Chile currently finishing electrical engineering and masters of Data scinece.</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🙋‍♂️About me
+
+- 💻 I have worked in projects that involves NLP, image processing, Outlier detection and Time series.
+- 🌱 I’m currently learning about Robotics, Sensing and Statistics for data science.
+- 🔎 I want to learn about some visualitation tools like looker studio and power bi, and learn some frontend develop.
+- 🤖 I’m really interested in the impact of data science in the society and the misconceptions associated with the develops of IA.
+- 🤹‍♂️ Some of my hobbies are related to videogames, reading and music.
+- 🐕 I have a dog called Hammer who likes to swim in rivers.
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -34,3 +32,10 @@ Here are some ideas to get you started:
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
+
+### :link: &nbsp;Connect with me
+
+<p align="center">
+<a href="https://linkedin.com/in/martín-sepúlveda-yáñez-3b3a91191/"><img src="https://img.shields.io/badge/-martin%20sepulveda-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:nartin.sep.y@gmail.com"><img src="https://img.shields.io/badge/-martin.sep.y@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>

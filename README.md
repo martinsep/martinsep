@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-<p align="center" width="150px"> I am a student at Universidad de Chile currently finishing electrical engineering and masters of Data scinece.</p>
+<p align="center" width="150px"> I’m Martín Sepúlveda, a student at Universidad de Chile currently finishing electrical engineering and masters of Data scinece.</p>
 
 
 ### 🙋‍♂️About me
